@@ -7,7 +7,7 @@ A machine project by Team BIRD in fulfillment of the requirements in CS 180 (Art
 3. Martirez, Derryn Joi
 4. Yao, Marie Isabel
 
-###DATASETS AND SOURCE
+### DATASETS AND SOURCES
 - 2021VAERSDATA.csv
 - 2021VAERSVAX.csv
 
@@ -16,7 +16,7 @@ Note: The VAERSDATA files contain information on the patients such as sex, age g
 These files were retrieved from [https://vaers.hhs.gov/data/datasets.html?] 
 
 
-###Outline
+### Outline
 
 **PART 1: Data Processing**
 
