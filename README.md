@@ -14,6 +14,7 @@ A machine project by Team BIRD in fulfillment of the requirements in CS 180 (Art
 Note: The VAERSDATA files contain information on the patients such as sex, age group, state of residence, allergies, description of adverse effect, etc. The VAERSVAX files contain information about the vaccine administered on the patient, such as vaccine manufacturer, anatomic site where vaccine was administered, etc.
 
 **DATA SOURCES**
+
 Vaccine Adverse Effect Reporting System (VAERS) VAERS - Data Sets (hhs.gov)
 
 
